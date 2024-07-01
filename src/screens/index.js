@@ -1,0 +1,7 @@
+export {default as Home} from './Home/layout'
+export {default as Details} from './Home/screens/Details'
+export {default as Welcome} from './Welcome/layout'
+export {default as Order} from './Order/layout'
+export {default as Favorites} from './Favorites/Favorites'
+export {default as Cart} from './Cart/Cart'
+export {default as Track} from './Order/screens/TrackScreen'

@@ -5,6 +5,12 @@ Users can browse menus, place orders, await delivery and enjoy a smooth checkout
 
 ### 📱 App Screenshots
 <p align="center">
+  <img width="400" alt="5" src="https://github.com/user-attachments/assets/bfa48414-9363-41d0-b106-4d5e90fdcae6" />
+<img width="400" alt="4" src="https://github.com/user-attachments/assets/a29c488d-ae52-4b69-8f5f-ec739d8a4f57" />
+
+</p>
+
+<p align="center">
   <img width="150" alt="cart-dark" src="https://github.com/user-attachments/assets/ab6a722d-13cf-4cd6-a401-3c09c22b4a63" />
 <img width="150" alt="cart" src="https://github.com/user-attachments/assets/6c2bd1c5-06ad-44b5-8303-d73c93763dc8" />
 <img width="150" alt="track-dark" src="https://github.com/user-attachments/assets/03930363-2f7d-499e-99c8-a10baae10ca5" />
